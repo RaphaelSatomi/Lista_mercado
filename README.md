@@ -13,8 +13,8 @@
 <div style="display: flex; justify-content: center">
  <img style="margin-right: 50px;"src="images/site_425.png" width="250" height="337">
  <img src="images/site_425_filtro.png" width="250" height="337" style="margin-left: 10px">
- <img src="assets/images/site_425_add.png" width="250" height="337" style="margin-left: 10px">
- <img src="assets/images/site_425_update.png" width="250" height="337" style="margin-left: 10px">
+ <img src="images/site_425_add.png" width="250" height="337" style="margin-left: 10px">
+ <img src="images/site_425_update.png" width="250" height="337" style="margin-left: 10px">
 </div>-
  
 
