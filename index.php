@@ -61,9 +61,6 @@
                                     <a class="btn btn-danger" href="assets/php/excluir.php?id='.$prod['id'].'">Excluir</a></td>';                                
                                     echo "</tr>";                                
                                 }
-                            }else{
-                                echo "Não possui produto<br/>";
-                                echo '<a href="assets/php/adicionar.php">Adicionar produto</a>';
                             }
                         ?>
                     </tbody>
