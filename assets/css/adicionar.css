@@ -1,0 +1,19 @@
+body{    
+    background-color: #103754;
+    color: #FFF;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn-primary{
+    background-color: #34abb1;
+    border: #34abb1;
+}
+.btn-danger{
+    background-color: #eeab1f;
+    border: #eeab1f;
+    margin-left: 20px;
+}

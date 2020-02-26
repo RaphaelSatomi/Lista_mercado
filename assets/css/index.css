@@ -1,0 +1,46 @@
+body{    
+    background-color: #103754;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.logo img{
+    width: 340px;
+    height: 200px;    
+}
+.first_row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-primary{
+    background-color: #34abb1;
+    border: #34abb1;
+}
+.btn-info{
+    background-color: #34abb1;
+    border: #34abb1;
+}
+.btn-danger{
+    background-color: #fe5f1b;
+    border: #fe5f1b;
+}
+
+.table{
+    background-color: #fcfff6;
+    border: 2px solid #000;
+}
+
+
+@media (min-width: 768px){
+    .container{
+        max-width: 700px;
+    }    
+}
+@media (max-width: 530px){
+    .botoes a{
+        width: 100%;
+    }
+}
